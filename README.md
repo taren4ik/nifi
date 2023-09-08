@@ -1,6 +1,6 @@
 #ExecuteStreamCommand - процессор Apach NiFi
 
-Данный код предназначен для загрузки в процессор ExecuteStreamCommand 1.16.3
+Данный код предназначен для загрузки в процессор ExecuteStreamCommand 1.16.3.
 
 
 ### Как запустить проект:
